@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.example"
+<addon id="plugin.video.anontv"
 version="2.1.0"
-name="Example Kodi Video Plugin"
+name="AnonOps TV"
 provider-name="Roman_V_M">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
